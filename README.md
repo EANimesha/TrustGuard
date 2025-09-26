@@ -4,7 +4,7 @@
 We propose a two-stage explainable Graph Neural Network (GNN) for IoT network intrusion detection. First, class-wise feature importance is extracted using post-hoc XAI on an E-GraphSAGE model. Then, these insights refine the feature space, and an updated E-GraphSAGE with a One-vs-All (OvA) classifier improves multi-class detection. Experiments on public IoT datasets show enhanced detection rates, F1-scores, 
 and model interpretability, enabling transparent and targeted performance improvements.
 
-![Architecture Diagram](images/Technical Work.jpg)
+![Architecture Diagram](Technical Work.jpg)
 
 ### Directory Structure 
 - Trustguard_ACI_IoT_23.ipynb
